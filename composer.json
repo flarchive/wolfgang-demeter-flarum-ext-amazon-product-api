@@ -1,0 +1,27 @@
+{
+    "name": "wolfgang-demeter/flarum-ext-amazon-product-api",
+    "description": "Amazon Product Adevertising API (PA-API) integration for Flarum",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "forum": "https://discuss.flarum.org/",
+        "issues": "https://github.com/wolfgang-demeter/flarum-ext-amazon-product-api/issues",
+        "source": "https://github.com/wolfgang-demeter/flarum-ext-amazon-product-api"
+    },
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"WD\\AmazonProductApi\\": "src/"}
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Amazon Product API",
+            "icon": {
+                "name": "fab fa-amazon",
+                "backgroundColor": "#282a36",
+                "color": "#ff79c6"
+            }
+        }
+    }
+}
