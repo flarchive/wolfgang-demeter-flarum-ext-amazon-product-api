@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of wolfgang-demeter/flarum-ext-amazon-product-api.** Not for installation: use [Packagist](https://packagist.org/packages/wolfgang-demeter/flarum-ext-amazon-product-api) or the [upstream repository](https://github.com/wolfgang-demeter/flarum-ext-amazon-product-api).
 
-**0** versions archived · Latest: [`v0.1.7`](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^1.0`
+**8** versions archived · Latest: [`v0.1.7`](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2022-05-15 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.0) |
+| `v0.1.1` | 2022-05-15 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.1) |
+| `v0.1.2` | 2022-05-26 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.2) |
+| `v0.1.3` | 2022-05-28 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.3) |
+| `v0.1.4` | 2023-12-27 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.4) |
+| `v0.1.5` | 2023-12-27 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.5) |
+| `v0.1.6` | 2023-12-27 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.6) |
+| `v0.1.7` | 2023-12-27 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-amazon-product-api/tree/archive/v0.1.7) |
 
 Catalog entry: [packages/wolfgang-demeter-flarum-ext-amazon-product-api.json](https://github.com/flarchive/archive-index/blob/main/packages/wolfgang-demeter-flarum-ext-amazon-product-api.json)
 
